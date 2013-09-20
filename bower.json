@@ -1,0 +1,19 @@
+{
+	"name": "loop",
+	"version": "0.0.1",
+	"main": "lib/loop.js",
+	"dependencies": {
+		"raf.js": "~0.0.3"
+	},
+	"ignore": [
+		".gitignore",
+		".jshintrc",
+		".travis.yml",
+		"Gruntfile.js",
+		"LICENSE-MIT",
+		"package.json",
+		"*.md",
+		"test",
+		"index.js"
+	]
+}
