@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ngryman/loop.png)](https://travis-ci.org/ngryman/loop)
 [![Dependency Status](https://gemnasium.com/ngryman/loop.png)](https://gemnasium.com/ngryman/loop)
 
-Generates a combination matrix from a set of options key/value pairs.
+Global loop handling using raf.js.
 
 ## Motivations
 
