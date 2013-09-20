@@ -7,9 +7,10 @@ Generates a combination matrix from a set of options key/value pairs.
 
 ## Motivations
 
-Sometimes you need a global loop for rendering, updating, polling...
-Sometimes you create several `setInterval` or chained `setTimeout`...
+Sometimes you need a global loop for rendering, updating, polling...<br>
+Sometimes you create several `setInterval` or chained `setTimeout`...<br>
 Sometimes you don't know why, but you need a **LoOoOoOoOoOp**.
+
 Here it is!
 
 ## Installation
