@@ -1,5 +1,7 @@
 # loop <sup>0.0.1</sup>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/loop.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/ngryman/loop.png)](https://travis-ci.org/ngryman/loop)
 [![Dependency Status](https://gemnasium.com/ngryman/loop.png)](https://gemnasium.com/ngryman/loop)
 
